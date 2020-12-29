@@ -1,2 +1,0 @@
-# billli.me
-Personal Website
